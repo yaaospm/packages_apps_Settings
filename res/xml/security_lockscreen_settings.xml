@@ -40,7 +40,7 @@
             settings:controller="com.android.settings.biometrics.face.FaceSettingsLockscreenUnlockMethodPreferenceController" />
 
         <SwitchPreference
-            android:key="security_dispaly_lockscreen_bypass"
+            android:key="security_display_lockscreen_bypass"
             android:title="@string/lockscreen_bypass_title"
             android:summary="@string/lockscreen_bypass_summary"
             settings:searchable="false"
