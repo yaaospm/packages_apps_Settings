@@ -210,4 +210,14 @@
 
     <!-- Battery error text color -->
     <color name="battery_info_error_color_black">@*android:color/primary_text_default_material_light</color>
+
+    <!-- Chaldea Settings Overlay -->
+    <color name="accentActive">@android:color/system_accent1_500</color>
+    <color name="accentInactive">@android:color/system_accent2_500</color>
+    <color name="background">@android:color/system_neutral1_100</color>
+    <color name="onBackground">@android:color/system_neutral1_1000</color>
+    <color name="onPrimary">@android:color/system_neutral1_1000</color>
+    <color name="onSurface">@android:color/system_neutral1_1000</color>
+    <color name="primary">@android:color/system_neutral1_100</color>
+    <color name="surface">@android:color/system_neutral2_300</color>
 </resources>
