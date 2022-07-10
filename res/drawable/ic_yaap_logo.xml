@@ -10,7 +10,7 @@
       android:height="150dp"
       android:width="276dp"
       android:drawable="@drawable/ic_yaap_logo_1"
-      android:start="170dp" />
+      android:start="107dp" />
     <item
       android:gravity="start|bottom|center"
       android:height="150dp"
