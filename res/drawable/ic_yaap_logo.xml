@@ -16,4 +16,9 @@
       android:height="150dp"
       android:width="526dp"
       android:drawable="@drawable/ic_yaap_logo_2" />
+    <item
+      android:gravity="start|bottom|center"
+      android:height="150dp"
+      android:width="526dp"
+      android:drawable="@drawable/ic_yaap_logo_3" />
 </layer-list>
